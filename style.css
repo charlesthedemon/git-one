@@ -1,3 +1,19 @@
 body{
-    background: red;
+    background: rgb(5, 5, 60);
+}
+
+h1{
+    color: rgb(233, 233, 243);
+}
+
+h2{
+    color: rgb(225, 225, 235);
+}
+
+.head{
+    background: rgb(2, 2, 60)
+}
+
+#bod{
+    background: rgb(2, 2, 60);
 }
